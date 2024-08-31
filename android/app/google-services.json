@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935574402111",
+    "project_id": "user-management-7f756",
+    "storage_bucket": "user-management-7f756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935574402111:android:7f7f05c349adf37444b48a",
+        "android_client_info": {
+          "package_name": "com.example.user_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-iebSiLARlyTn8Qb2ZYWQ4cDY_YBwx8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
